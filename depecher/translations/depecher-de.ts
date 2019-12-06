@@ -169,15 +169,15 @@
     </message>
     <message>
         <source>Always align messages to left</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachrichten immer nach links ausrichten</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschiedenes</translation>
     </message>
     <message>
         <source>Show full screen images in channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilder in Kanälen in Vollbild darstellen</translation>
     </message>
 </context>
 <context>
@@ -308,11 +308,11 @@
     <name>ContactsPage</name>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakte</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen</translation>
     </message>
 </context>
 <context>
@@ -346,15 +346,15 @@
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Als gelesen markieren</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>als ungelesen markieren</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakte</translation>
     </message>
 </context>
 <context>
@@ -490,7 +490,7 @@
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -878,6 +878,18 @@ Beachte! Danach wird die 2FA Autorisierung deaktiviert werden.</translation>
         <source>Username</source>
         <translation type="unfinished">Benutzername</translation>
     </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bio</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>VideoView</name>
@@ -897,11 +909,11 @@ Beachte! Danach wird die 2FA Autorisierung deaktiviert werden.</translation>
     <name>WritingItem</name>
     <message>
         <source>Edit text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text bearbeiten</translation>
     </message>
     <message>
         <source>Edit caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Bildunterschrift bearbeiten</translation>
     </message>
 </context>
 <context>
@@ -961,6 +973,10 @@ Beachte! Danach wird die 2FA Autorisierung deaktiviert werden.</translation>
     <message>
         <source>Wait closed</source>
         <translation>Geschlossen</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

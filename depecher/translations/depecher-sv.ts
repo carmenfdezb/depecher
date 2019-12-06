@@ -169,15 +169,15 @@
     </message>
     <message>
         <source>Always align messages to left</source>
-        <translation type="unfinished"></translation>
+        <translation>Justera alltid meddelanden åt vänster</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
-        <translation type="unfinished"></translation>
+        <translation>Diverse</translation>
     </message>
     <message>
         <source>Show full screen images in channels</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa helskärmsbilder i kanaler</translation>
     </message>
 </context>
 <context>
@@ -692,15 +692,15 @@
 <context>
     <name>ShareUI</name>
     <message>
+        <source>Reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Choose chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reset</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -835,6 +835,10 @@ Observera att efter detta, kommer 2-faktorsauktoriseringen att inaktiveras</tran
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Username</source>
+        <translation type="unfinished">Användarnamn</translation>
+    </message>
+    <message>
         <source>Notifications</source>
         <translation type="unfinished"></translation>
     </message>
@@ -855,10 +859,6 @@ Observera att efter detta, kommer 2-faktorsauktoriseringen att inaktiveras</tran
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 members</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Leave channel</source>
         <translation type="unfinished"></translation>
     </message>
@@ -875,8 +875,20 @@ Observera att efter detta, kommer 2-faktorsauktoriseringen att inaktiveras</tran
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Username</source>
-        <translation type="unfinished">Användarnamn</translation>
+        <source>%1 members</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bio</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -961,6 +973,10 @@ Observera att efter detta, kommer 2-faktorsauktoriseringen att inaktiveras</tran
     <message>
         <source>Wait closed</source>
         <translation>Vänta stängd</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
